@@ -7,4 +7,4 @@
 - Join the second server as a worker node using kubeadm
 - Using kubectl run the following deployment on the cluster 
 
-![Picture1](https://user-images.githubusercontent.com/93229250/234333581-5f7d3aa9-7cfb-4a62-8917-d536613e643f.png)
+![Screenshot (1142)](https://user-images.githubusercontent.com/93229250/234342144-b897a492-e7c1-40d6-8965-edc6fd90a1db.png)
